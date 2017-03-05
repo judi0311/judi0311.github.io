@@ -1,0 +1,90 @@
+header{
+    width:100%;
+    height:60px;
+    background-color: #333333;
+    position:static;
+}
+body{
+    background-color: #e0e0e0;
+}
+.tou{
+    position:relative;
+    left:65%;
+    top:-1.7em;
+}
+.tou a:link{
+    color:white;
+}
+.tou a:visited{
+    color: red;
+}
+.article1 ,.article2 ,.article3,.image {
+    border:1px solid purple;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+}
+p{
+    text-indent: 2em;
+}
+#photo1,#photo2,#photo3,#photo4,#photo5,#photo6,#photo8{
+    width:350px;
+    height:200px;
+}
+#photo7{
+    width:200px;
+    height:350px;
+}
+.table1{
+    border: 2px solid #fff;
+    width:100%;
+}
+.table1 td, .table1 th{
+     text-align:   left;
+     padding:      10px 200px 10px 0px;
+     margin:1px solid #fff;
+}
+.table1 th{
+    color:               white;
+    background:          black;
+}
+#end{
+    background-color:    silver;
+}
+#form{
+    text-align:          center;
+}
+.fore{
+    margin-left:         300px;
+    margin-top:          10px;
+}
+.fore th{
+    text-align:          right;
+}
+.fore td{
+    text-align:          left;
+}
+ #sub{
+    height :            3em;
+    width:              100%;
+  background-color:     #3059c3;
+  font-weight:          bold;
+ }
+ #foot{
+    text-align:          center;
+    background-color: black;
+    color: white;
+    height: 50px;
+ }
+
+.i1,.i2,.i3,.i4,.i5,.i6{
+    padding:2em;
+    border: 0.1em dotted #123456;
+    margin:2em 50em 0 0;
+}
+#form1{
+    border:1px solid purple;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+}
