@@ -1,0 +1,38 @@
+body{
+    background-color:       #eee;
+    padding:                20px;
+    border:                 1px dotted #999;
+    height:                 430px;
+}
+#a{
+    padding:                20px;
+    border:                 1px  solid    #999;
+    background-color:       white;
+    width:                  auto;
+    margin-left:            240px;
+    margin-right:           150px;
+    text-indent:            2em;
+    overflow:               auto;
+}
+#lo1{
+    padding:                20px;
+    width:                  160px;
+    border:                 1px solid #999;
+    height:                 auto;
+    float:                  left;
+ }
+#log{
+    width:                  120px;
+    border:                 1px solid  #999;
+    float:                  right;
+    background-color:       white;
+    height:                 auto;
+}
+#lo2,#lo3,#lo4,#lo5{
+   margin:                  20px;
+
+}
+#lo1{
+    float:                  left;
+    background-color:       white;
+}
